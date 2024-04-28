@@ -15,6 +15,9 @@ Some youtube made a screenshare bypass but i made it better
 # Obfuscation
 If this repository gets to 3 stars i will post the source code
 
+# Errors
+1. When you open 2.bat and it dosnt work try running the bat file as admin
+
 # Tutorial Video
 
 https://github.com/epiclyrizzy/screenshare-bypass/assets/141612089/6213d5c8-d2a2-4d4f-839f-238afbc7c46f
